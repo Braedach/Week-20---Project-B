@@ -41,20 +41,17 @@ This week's project will prompt you to apply knowledge of the following skills a
 
 In this unit, you will be using the Red vs Blue lab environment located in Windows Azure Lab Services. RDP into the Windows RDP host machine using the following credentials:
 
-Username: `azadmin`
-Password: `p4ssw0rd*`
+    - Removed
 
 Open the Hyper-V Manager to access the nested machines:
 
 - **ELK machine credentials:** The same ELK setup that you created in Project 1. It holds the Kibana dashboards.
-    - Username: `vagrant`
-    - Password: `vagrant`
-    - IP Address: `192.168.1.100`
+
+    - Removed
 
 - **Kali:** A standard Kali Linux machine for use in the penetration test on Day 1. 
-    - Username: `root`
-    - Password: `toor`
-    - IP Address: `192.168.1.90`
+ 
+    - Removed
 
 - **Capstone:** Filebeat and Metricbeat are installed and will forward logs to the ELK machine. 
    - IP Address: `192.168.1.105`
